@@ -1,0 +1,16 @@
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\bin\Release\WienerLinienAPI.dll
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\bin\Release\WienerLinienAPI.pdb
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\bin\Release\WienerLinienAPI.pri
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\WienerLinienAPI.dll
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\WienerLinienAPI.pdb
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\priconfig.xml
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\priconfig.xml.intermediate
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\layout.resfiles
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\layout.resfiles.intermediate
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\resources.resfiles
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\resources.resfiles.intermediate
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\pri.resfiles
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\pri.resfiles.intermediate
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\qualifiers.txt
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\qualifiers.txt.intermediate
+C:\Users\m.kinc\Desktop\WienerLinienAPI\WienerLinienAPI\WienerLinienAPI\obj\Release\MultipleQualifiersPerDimensionFound.txt
